@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-C:/Users/Tosheba/Desktop/ECL5/Test_Project/build/CMakeFiles/bootloader
-C:/Users/Tosheba/Desktop/ECL5/Test_Project/build/CMakeFiles/bootloader.rule
-C:/Users/Tosheba/Desktop/ECL5/Test_Project/build/CMakeFiles/bootloader-complete.rule
-C:/Users/Tosheba/Desktop/ECL5/Test_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-C:/Users/Tosheba/Desktop/ECL5/Test_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-C:/Users/Tosheba/Desktop/ECL5/Test_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-C:/Users/Tosheba/Desktop/ECL5/Test_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-C:/Users/Tosheba/Desktop/ECL5/Test_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-C:/Users/Tosheba/Desktop/ECL5/Test_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-C:/Users/Tosheba/Desktop/ECL5/Test_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Users/RUCO1621/Desktop/ECL5/TestMain/build/CMakeFiles/bootloader
+C:/Users/RUCO1621/Desktop/ECL5/TestMain/build/CMakeFiles/bootloader.rule
+C:/Users/RUCO1621/Desktop/ECL5/TestMain/build/CMakeFiles/bootloader-complete.rule
+C:/Users/RUCO1621/Desktop/ECL5/TestMain/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/RUCO1621/Desktop/ECL5/TestMain/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/RUCO1621/Desktop/ECL5/TestMain/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/RUCO1621/Desktop/ECL5/TestMain/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/RUCO1621/Desktop/ECL5/TestMain/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/RUCO1621/Desktop/ECL5/TestMain/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/RUCO1621/Desktop/ECL5/TestMain/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Tosheba/esp/v5.2.1/esp-idf/components/bootloader/subproject
+# Install script for directory: C:/Users/RUCO1621/esp/v5.2.1/esp-idf/components/bootloader/subproject
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,12 +34,12 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/Tosheba/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin/xtensa-esp32s3-elf-objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Users/RUCO1621/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/bin/xtensa-esp32s3-elf-objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Tosheba/Desktop/ECL5/Test_Project/build/bootloader/esp-idf/cmake_install.cmake")
+  include("C:/Users/RUCO1621/Desktop/ECL5/TestMain/build/bootloader/esp-idf/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Tosheba/Desktop/ECL5/Test_Project/build/bootloader/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/RUCO1621/Desktop/ECL5/TestMain/build/bootloader/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
