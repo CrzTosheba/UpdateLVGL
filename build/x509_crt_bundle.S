@@ -1,4 +1,4 @@
-/* * Data converted from C:/Users/RUCO1621/Desktop/ECL5/TestMain/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from C:/Users/RUCO1621/Desktop/ECL5/ForUpdate/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

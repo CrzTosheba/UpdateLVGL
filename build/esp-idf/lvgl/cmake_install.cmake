@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/RUCO1621/Desktop/ECL5/TestMain/components/lvgl
+# Install script for directory: C:/Users/RUCO1621/Desktop/ECL5/ForUpdate/components/lvgl
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/TestMain")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/ForUpdate")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
